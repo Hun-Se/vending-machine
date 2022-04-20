@@ -43,3 +43,7 @@
   ```
 
 - 아웃란인이나 가상요소로 기존의 버튼 레이아웃을 침범하지 않게 적용해줄 때 사용하면 좋다.
+
+구굴폰트 관련 참고영상: https://www.youtube.com/watch?v=E_Kwse8H9xQ&t=1s
+
+미디어쿼리 관련 참고영상: https://www.youtube.com/watch?v=aA4xunvDWU8
