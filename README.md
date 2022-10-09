@@ -47,3 +47,5 @@
 구굴폰트 관련 참고영상: https://www.youtube.com/watch?v=E_Kwse8H9xQ&t=1s
 
 미디어쿼리 관련 참고영상: https://www.youtube.com/watch?v=aA4xunvDWU8
+
+자바스크립트 기능 추가 예정
